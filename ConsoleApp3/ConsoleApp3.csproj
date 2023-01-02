@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp3.demo3</StartupObject>
+    <StartupObject>ConsoleApp3.forloop</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup />
@@ -54,6 +54,7 @@
     <Compile Include="demo4.cs" />
     <Compile Include="demo5.cs" />
     <Compile Include="deomproject.cs" />
+    <Compile Include="forloop.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
