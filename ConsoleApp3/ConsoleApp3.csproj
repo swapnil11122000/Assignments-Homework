@@ -54,7 +54,7 @@
     <Compile Include="demo2.cs" />
     <Compile Include="demo3.cs" />
     <Compile Include="demo4.cs" />
-    <Compile Include="demo5.cs" />
+    <Compile Include="loopAssignment.cs" />
     <Compile Include="deomproject.cs" />
     <Compile Include="forloop.cs" />
     <Compile Include="Program.cs" />
