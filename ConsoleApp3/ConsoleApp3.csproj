@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp3.DatatypesAssignment</StartupObject>
+    <StartupObject>ConsoleApp3.stringbuilder</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup />
@@ -51,9 +51,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DatatypesAssignment.cs" />
-    <Compile Include="demo2.cs" />
-    <Compile Include="demo3.cs" />
-    <Compile Include="demo4.cs" />
+    <Compile Include="string.cs" />
+    <Compile Include="array.cs" />
+    <Compile Include="stringbuilder.cs" />
     <Compile Include="loopAssignment.cs" />
     <Compile Include="deomproject.cs" />
     <Compile Include="forloop.cs" />
