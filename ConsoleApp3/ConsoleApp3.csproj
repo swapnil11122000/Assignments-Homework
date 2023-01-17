@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleApp3.stringbuilder</StartupObject>
+    <StartupObject>ConsoleApp3.starpatterns</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup />
@@ -51,6 +51,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DatatypesAssignment.cs" />
+    <Compile Include="dowhileloop.cs" />
+    <Compile Include="starpatterns.cs" />
     <Compile Include="string.cs" />
     <Compile Include="array.cs" />
     <Compile Include="stringbuilder.cs" />
